@@ -1,0 +1,8 @@
+value_date,scheduled_operating_date,settlement_count,negative_residual_settlement_count,positive_offset_settlement_count,net_execution_residual_usd,negative_residual_amount_usd,positive_offset_amount_usd,calendar_days_to_operating_action,intervening_weekend_days,intervening_us_holidays,initial_shortfall_amount_usd,control_status_on_value_date,posted_topup_usd,posted_sweep_usd,scheduled_topup_usd,scheduled_sweep_usd,operating_adjustment_posted_as_scheduled,control_status_on_operating_date,control_resolved_on_operating_date,new_settlement_residual_on_operating_date_usd
+2025-01-17,2025-01-21,7,3,4,-22.02,37.06,15.04,4,2,1,22.02,SHORTFALL,37.06,15.04,37.06,15.04,YES,SHORTFALL,NO,-27.67
+2025-01-21,2025-01-22,9,4,5,-27.67,67.3,39.63,1,0,0,27.67,SHORTFALL,67.3,39.63,67.3,39.63,YES,PASS,YES,35.04
+2025-03-11,2025-03-12,4,2,2,-1.63,8.07,6.44,1,0,0,1.63,SHORTFALL,8.07,6.44,8.07,6.44,YES,PASS,YES,16.4
+2025-03-21,2025-03-24,3,1,2,-6.25,13.72,7.47,3,2,0,6.25,SHORTFALL,13.72,7.47,13.72,7.47,YES,PASS,YES,140.93
+2025-03-26,2025-03-27,7,3,4,-34.14,47.73,13.59,1,0,0,34.14,SHORTFALL,47.73,13.59,47.73,13.59,YES,PASS,YES,27.28
+2025-03-28,2025-03-31,6,2,4,-30.23,31.74,1.51,3,2,0,30.23,SHORTFALL,31.74,1.51,31.74,1.51,YES,SHORTFALL,NO,-34.86
+2025-03-31,2025-04-01,9,6,3,-34.86,38.4,3.54,1,0,0,34.86,SHORTFALL,,,38.4,3.54,OUTSIDE_AS_OF,,OUTSIDE_AS_OF,0

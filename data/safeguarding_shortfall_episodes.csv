@@ -1,0 +1,6 @@
+episode_id,start_date,end_date,consecutive_calendar_days,us_banking_days,weekend_days,us_holiday_days,cumulative_daily_shortfall_exposure_usd,average_shortfall_usd,maximum_shortfall_usd,resolution_date,next_calendar_day_control_status,resolution_date_topup_usd,resolved_with_operating_topup,extended_by_weekend_or_us_holiday
+1,2025-01-17,2025-01-21,5,2,2,1,115.75,23.15,27.67,2025-01-22,PASS,67.3,YES,YES
+2,2025-03-11,2025-03-11,1,1,0,0,1.63,1.63,1.63,2025-03-12,PASS,8.07,YES,NO
+3,2025-03-21,2025-03-23,3,1,2,0,18.75,6.25,6.25,2025-03-24,PASS,13.72,YES,YES
+4,2025-03-26,2025-03-26,1,1,0,0,34.14,34.14,34.14,2025-03-27,PASS,47.73,YES,NO
+5,2025-03-28,2025-03-31,4,2,2,0,125.55,31.39,34.86,,,,OPEN_AS_OF,YES

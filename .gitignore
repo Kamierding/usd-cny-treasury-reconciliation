@@ -15,6 +15,7 @@ venv/
 # Generated data
 # Keep this commented initially if you want small sample CSVs version-controlled.
 # data/*.csv
+data/*.db
 
 # Environment variables
 .env

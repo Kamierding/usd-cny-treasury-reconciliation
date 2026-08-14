@@ -1,0 +1,5 @@
+payment_size_bucket,payment_size_bucket_order,transaction_count,settled_transaction_count,total_source_volume_usd,signed_fx_funding_variance_usd,absolute_fx_funding_variance_usd,signed_normalized_fx_variance_bps,absolute_normalized_fx_variance_bps
+<$5k,1,274,266,761944.4,-666.72,1007.02,-9.03,13.64
+$5k-$10k,2,99,95,681355.95,-781.57,1042.63,-11.99,16.0
+$10k-$25k,3,91,90,1368140.85,-1020.0,1688.3,-7.56,12.51
+$25k+,4,10,10,403575.32,-405.07,479.77,-10.09,11.95

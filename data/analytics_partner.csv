@@ -1,0 +1,3 @@
+partner,transaction_count,settled_transaction_count,late_settlement_count,late_settlement_rate_pct,average_timing_variance_days,signed_fx_funding_variance_usd,absolute_fx_funding_variance_usd,signed_normalized_fx_variance_bps,absolute_normalized_fx_variance_bps
+PARTNER_A,270,265,10,3.77,0.06,-1432.05,2110.35,-8.04,11.85
+PARTNER_B,204,196,6,3.06,0.07,-1441.31,2107.37,-10.59,15.49

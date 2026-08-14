@@ -1,0 +1,6 @@
+duration_bucket,duration_bucket_order,transaction_count,average_quote_to_execution_hours,signed_fx_funding_variance_usd,absolute_fx_funding_variance_usd,average_absolute_fx_variance_usd,signed_normalized_fx_variance_bps,absolute_normalized_fx_variance_bps
+"<2 hours",1,143,1.27,-956.43,965.11,6.75,-9.62,9.71
+"2-8 hours",2,108,3.03,-682.98,804.82,7.45,-10.35,12.2
+"8-24 hours",3,165,17.87,-855.09,2039.23,12.36,-6.94,16.55
+"24-72 hours",4,30,64.31,-166.47,196.17,6.54,-11.07,13.04
+"72+ hours",5,15,122.24,-212.39,212.39,14.16,-20.24,20.24

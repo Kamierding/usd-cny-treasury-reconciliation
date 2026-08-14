@@ -1,0 +1,7 @@
+partner,cutoff_group,transaction_count,settled_transaction_count,late_settlement_count,late_settlement_rate_pct,average_timing_variance_days,average_quote_to_execution_hours,signed_fx_funding_variance_usd,absolute_fx_funding_variance_usd,signed_normalized_fx_variance_bps,absolute_normalized_fx_variance_bps
+PARTNER_A,BEFORE_CUTOFF,175,172,10,5.81,0.09,3.78,-975.6,1105.84,-8.7,9.86
+PARTNER_A,AFTER_CUTOFF,95,93,0,0.0,0.0,32.39,-456.45,1004.51,-6.92,15.23
+PARTNER_B,BEFORE_CUTOFF,98,95,6,6.32,0.14,3.79,-613.93,878.53,-9.24,13.22
+PARTNER_B,AFTER_CUTOFF,106,101,0,0.0,0.0,31.67,-827.38,1228.84,-11.88,17.65
+ALL_PARTNERS,BEFORE_CUTOFF,273,267,16,5.99,0.11,3.79,-1589.53,1984.37,-8.9,11.11
+ALL_PARTNERS,AFTER_CUTOFF,201,194,0,0.0,0.0,32.01,-1283.83,2233.35,-9.47,16.47
